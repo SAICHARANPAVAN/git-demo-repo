@@ -7,3 +7,7 @@ x = c + d
 # subtraction
 
 y = a - b
+
+# division
+
+z = a / b
